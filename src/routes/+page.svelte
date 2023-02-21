@@ -8,7 +8,7 @@
 		<div class="h-full hidden -lg:block">
 			<img class="w-[375px] h-auto rounded-t-2xl overflow-hidden" src="/images/image-header-desktop.jpg" alt="People talking around a desk.">
 		</div>
-		<div class="flex flex-col justify-end text-white h-full w-[55%] -lg:w-[375px] rounded-b-2xl bg-very-desaturated-blue p-20 -2xl:p-16 -lg:p-10">
+		<div class="flex flex-col justify-end text-white h-full w-[55%] -lg:w-[375px] rounded-l-2xl -xl:rounded-l-none bg-very-desaturated-blue p-20 -2xl:p-16 -lg:p-10 -lg:rounded-b-2xl">
 			<h1 class="text-white text-4xl font-inter font-bold mb-6 -2xl:text-3xl -lg:text-xl -lg:mb-4">Get <span class="text-soft-violet">insights</span> that help your business grow.</h1>
 			<p class="mb-auto font-inter text-slightly-transparent-white text-sm w-2/3 -2xl:text-xs -lg:w-full -lg:text-[10px] -lg:mb-6">Discover the benefits of data analytics and make decisions regarding revenye, customer experience, and overall efficiency.</p>
 			<div class="flex gap-12 -lg:gap-6">
